@@ -1,3 +1,3 @@
 # canvas-matrix
 
-create canvas matrix effect with OOP
+create canvas matrix effect
